@@ -20,7 +20,7 @@ async function main() {
         msg(await basic.getAddress())
     )
 
-    if (network.name !== "arthera-testnet") {
+    if (network.name !== "arthera-devnet") {
         try {
             console.log("\nEtherscan verification in progress...")
             console.log(

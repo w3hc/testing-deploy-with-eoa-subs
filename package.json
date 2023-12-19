@@ -6,13 +6,13 @@
     "scripts": {
         "test": "hardhat test",
         "deploy:goerli": "hardhat deploy --network goerli",
-        "deploy:arthera": "hardhat deploy --network arthera-testnet",
+        "deploy:arthera": "hardhat deploy --network arthera-devnet",
         "sourcify:goerli": "hardhat sourcify --network goerli",
-        "sourcify:arthera": "hardhat sourcify --network arthera-testnet",
+        "sourcify:arthera": "hardhat sourcify --network arthera-devnet",
         "mint:goerli": "hardhat mint --network goerli --amount",
-        "mint:arthera": "hardhat mint --network arthera-testnet --amount",
+        "mint:arthera": "hardhat mint --network arthera-devnet --amount",
         "send:goerli": "hardhat send --wallet 0x70456d078950db075283931D9bE2E01B49f3e71e --network goerli --amount",
-        "send:arthera": "hardhat send --wallet 0x70456d078950db075283931D9bE2E01B49f3e71e --network arthera-testnet --amount",
+        "send:arthera": "hardhat send --wallet 0x70456d078950db075283931D9bE2E01B49f3e71e --network arthera-devnet --amount",
         "prettier": "prettier --write ."
     },
     "keywords": [],

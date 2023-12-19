@@ -10,7 +10,7 @@ It includes:
 -   [Hardhat Verify plugin](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify)
 -   [Hardhat Deploy plugin](https://github.com/wighawag/hardhat-deploy)
 
-You may want to check the [dev resources](https://docs.arthera.net/build/developing-sc/dev-resources) available in Arthera docs, and [this walkthrough video](https://www.youtube.com/watch?v=kjPvFk4qmpc). 
+You may want to check the [dev resources](https://docs.arthera.net/build/developing-sc/dev-resources) available in Arthera docs, and [this walkthrough video](https://www.youtube.com/watch?v=kjPvFk4qmpc).
 
 ## Supported networks
 
