@@ -4,6 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
+        "flat": "hardhat flatten > ./Flat.sol",
         "test": "hardhat test",
         "deploy:goerli": "hardhat deploy --network goerli",
         "deploy:arthera": "hardhat deploy --network arthera-devnet",
